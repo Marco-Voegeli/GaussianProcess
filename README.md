@@ -57,7 +57,3 @@ The `extended_evaluation.pdf` file contains:
 ## Author
 
 This project was implemented to address a task involving pollution prediction using advanced machine learning methods.
-
-## License
-
-This project is licensed under the MIT License.
